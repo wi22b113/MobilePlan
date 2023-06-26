@@ -1,0 +1,11 @@
+MobilePhoneContract [
+carrier=A1, customer=[Anna 75 [Brigittapassage 3c; 1200 Wien, Wien]], imei=223419892837377, usedUnits=0, unitsLeft=75, additionalFee=0.0,
+connections=[]
+]
+MobilePhoneContract [
+carrier=A1, customer=[Markus 32 [Stephansplatz 1; 1010 Wien, Wien]], imei=351756051523999, usedUnits=91, unitsLeft=0, additionalFee=17.2,
+connections=[
+Connection [caller=351756051523999, callee=987289743254583, type=STANDARD, units=72, DateTime=2022-07-12 00:00 (UTC)], 
+Connection [caller=351756051523999, callee=987289743254583, type=PREMIUM, units=12, DateTime=2022-07-12 01:00 (UTC)], 
+Connection [caller=351756051523999, callee=90342189315843, type=STANDARD, units=7, DateTime=2022-07-12 00:00 (UTC)]]
+]
